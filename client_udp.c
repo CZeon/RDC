@@ -1,3 +1,5 @@
+/*Programa feito utilizando base do código da aula 16 da profª Natássya Barlate Floro Da Silva*/
+
 #include<sys/types.h>
 #include<sys/socket.h>
 #include<netinet/in.h>
